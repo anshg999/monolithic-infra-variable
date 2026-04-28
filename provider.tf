@@ -9,7 +9,7 @@ terraform {
        resource_group_name= "prodansh"
        storage_account_name= "ansh09876"
        container_name= "ansh"
-       key= "tfstate"
+       key= "q.tfstate"
 
     }
 }
